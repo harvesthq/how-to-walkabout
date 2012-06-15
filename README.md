@@ -27,7 +27,7 @@
 * Places to get the word out: government agencies, incubator spaces, reputable universities with tech programs, places that job seekers look.
 
 ### Tell me more! 
-Sure! Go to `further_walkabout_details.md` in this repository.
+Sure! Go to `further_walkabout_details.md` in this repository, and read the [Harvest blog post](http://www.getharvest.com/blog/2012/06/diy-walkabout/) about WalkaboutNYC lessons learned.
 
 ## Resources
 You can use/modify the following assets for your own event. Find them in this repository, in the directory called `walkabout-assets`:

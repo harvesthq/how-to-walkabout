@@ -1,5 +1,5 @@
 # How To Organize Your Own Walkabout Event
-[Harvest](http://www.getharvest.com), a leader in time tracking, created [WalkaboutNYC](http://www.walkaboutnyc.com) in 2010, and has been organizing this event in New York City each year since. Over the years, we've had many inquiries from people who want to organize Walkabouts in their own cities so we decided to open source the idea, and share our experience. We hope that this will help you along as you prepare for your own event.
+[Harvest](http://www.getharvest.com), a leader in time tracking, created [WalkaboutNYC](http://www.walkaboutnyc.com) in 2010, and has been organizing this event in New York City each year since. Over the years, we've had many inquiries from people who want to organize Walkabouts outside New York City, so we decided to open source the idea, and share our experience. We hope that this will help you along as you prepare for your own event.
 
 ### What's so special about Walkabout?
 * Creates a backdrop for neighbors to meet neighbors, and connects folks interested in the local tech scene.
